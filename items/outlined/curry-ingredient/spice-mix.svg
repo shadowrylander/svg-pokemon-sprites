@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -0.5 32 32" shape-rendering="crispEdges">
+<metadata>Made with Pixels to Svg https://codepen.io/shshaw/pen/XbxvNj</metadata>
+<path stroke="#ffffff" d="M12 3h8M10 4h3M19 4h3M9 5h2M21 5h2M9 6h1M22 6h1M9 7h1M22 7h1M9 8h1M22 8h1M9 9h1M22 9h1M9 10h2M21 10h2M9 11h1M22 11h1M8 12h2M22 12h2M8 13h1M23 13h1M8 14h1M23 14h1M8 15h1M23 15h1M8 16h1M23 16h1M8 17h1M23 17h1M8 18h1M23 18h1M8 19h1M23 19h1M8 20h1M23 20h1M8 21h1M23 21h1M8 22h1M23 22h1M8 23h1M23 23h1M8 24h2M22 24h2M9 25h2M21 25h2M10 26h3M19 26h3M12 27h8" />
+<path stroke="#292818" d="M13 4h1M18 4h1M12 5h1M19 5h1" />
+<path stroke="#292429" d="M14 4h4M11 5h1M20 5h1M11 10h1M20 10h1M10 11h1M21 11h1M9 13h1M22 13h1M9 14h1M22 14h1M9 15h1M22 15h1M9 16h1M22 16h1M9 17h1M22 17h1M9 18h1M22 18h1M9 19h1M22 19h1M9 20h1M22 20h1M9 21h1M22 21h1M9 22h1M22 22h1M9 23h1M22 23h1M10 24h1M21 24h1M11 25h1M20 25h1M13 26h6" />
+<path stroke="#b7b796" d="M13 5h1M18 5h1" />
+<path stroke="#efd38c" d="M14 5h4" />
+<path stroke="#292421" d="M10 6h1M21 6h1M10 7h1M21 7h1" />
+<path stroke="#d68600" d="M11 6h1M20 6h1" />
+<path stroke="#e9b958" d="M12 6h1M19 6h1" />
+<path stroke="#f4d48f" d="M13 6h1M18 6h1" />
+<path stroke="#f1d28c" d="M14 6h4M14 7h4" />
+<path stroke="#9c650b" d="M11 7h1M20 7h1" />
+<path stroke="#de9e21" d="M12 7h2M18 7h2" />
+<path stroke="#292831" d="M10 8h1M21 8h1M10 9h1M21 9h1" />
+<path stroke="#b26415" d="M11 8h1M20 8h1" />
+<path stroke="#c5850c" d="M12 8h1M19 8h1M13 9h1M18 9h1" />
+<path stroke="#dea618" d="M13 8h1M18 8h1" />
+<path stroke="#daa021" d="M14 8h4" />
+<path stroke="#6d4623" d="M11 9h1M20 9h1" />
+<path stroke="#ad6500" d="M12 9h1M19 9h1" />
+<path stroke="#c68a00" d="M14 9h4" />
+<path stroke="#845531" d="M12 10h2M18 10h2M13 11h1M18 11h1" />
+<path stroke="#ad5d00" d="M14 10h4" />
+<path stroke="#b7b6b7" d="M11 11h1M20 11h1M14 14h2" />
+<path stroke="#f7f3f7" d="M12 11h1M14 15h2M14 16h2" />
+<path stroke="#765047" d="M14 11h4" />
+<path stroke="#dedbde" d="M19 11h1M14 13h4M10 16h1M20 16h2M10 17h4M21 17h1M10 18h2M21 18h1M10 19h1M21 19h1M10 20h1M21 20h1M10 21h1M21 21h1M10 22h1M21 22h1M10 23h1M21 23h1M12 24h1M19 24h1M13 25h6" />
+<path stroke="#292c29" d="M10 12h1M21 12h1" />
+<path stroke="#c6c7c6" d="M11 12h1M20 12h1M11 13h1M20 13h1" />
+<path stroke="#e1dcdb" d="M12 12h2M18 12h2M13 13h1M18 13h1M19 14h1M16 15h4" />
+<path stroke="#f4f3f4" d="M14 12h4M11 16h3" />
+<path stroke="#919391" d="M10 13h1M21 13h1" />
+<path stroke="#b5b6b5" d="M12 13h1M19 13h1M13 14h1M16 14h3" />
+<path stroke="#cecbce" d="M10 14h1M10 15h1" />
+<path stroke="#dedcde" d="M11 14h1M11 15h1" />
+<path stroke="#e1dedb" d="M12 14h1" />
+<path stroke="#dedcdc" d="M20 14h2M20 15h2" />
+<path stroke="#f7f3ef" d="M12 15h2M19 16h1" />
+<path stroke="#ffb79c" d="M16 16h2M16 17h2" />
+<path stroke="#fbb69c" d="M18 16h1M18 17h1" />
+<path stroke="#f7c7b5" d="M14 17h2M14 18h2" />
+<path stroke="#ff794a" d="M19 17h2M18 18h2M16 20h1" />
+<path stroke="#efebe7" d="M12 18h1" />
+<path stroke="#f4b69c" d="M13 18h1M13 19h1" />
+<path stroke="#ffb69c" d="M16 18h2" />
+<path stroke="#bd3400" d="M20 18h1M20 19h1M12 20h1M12 21h1" />
+<path stroke="#ad3000" d="M11 19h1M11 20h1M19 20h2M11 21h1M19 21h2M16 23h2" />
+<path stroke="#ff4d08" d="M12 19h1" />
+<path stroke="#f7b69f" d="M14 19h1" />
+<path stroke="#f79673" d="M15 19h1" />
+<path stroke="#ff7a4a" d="M16 19h2" />
+<path stroke="#ce3800" d="M18 19h2" />
+<path stroke="#ff9a73" d="M13 20h1" />
+<path stroke="#f79770" d="M14 20h2M14 21h2" />
+<path stroke="#e74100" d="M17 20h1M16 21h2" />
+<path stroke="#ca3800" d="M18 20h1M18 21h1M16 22h2" />
+<path stroke="#e9784c" d="M13 21h1" />
+<path stroke="#942800" d="M11 22h1M11 23h1" />
+<path stroke="#ad3810" d="M12 22h1" />
+<path stroke="#ff7131" d="M13 22h1" />
+<path stroke="#fc7b47" d="M14 22h2" />
+<path stroke="#c63800" d="M18 22h1" />
+<path stroke="#ad3100" d="M19 22h1" />
+<path stroke="#7b2400" d="M20 22h1M18 23h3M14 24h4" />
+<path stroke="#841c00" d="M12 23h1" />
+<path stroke="#d65420" d="M13 23h1" />
+<path stroke="#f74500" d="M14 23h2" />
+<path stroke="#efefef" d="M11 24h1M20 24h1" />
+<path stroke="#522410" d="M13 24h1M18 24h1M12 25h1M19 25h1" />
+</svg>

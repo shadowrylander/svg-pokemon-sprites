@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -0.5 32 32" shape-rendering="crispEdges">
+<metadata>Made with Pixels to Svg https://codepen.io/shshaw/pen/XbxvNj</metadata>
+<path stroke="#292429" d="M15 5h3M13 6h2M13 7h1M20 7h1M13 8h1M20 8h1M12 10h2M11 11h1M20 11h2M9 12h1M22 12h1M8 13h1M22 13h1M7 15h1M7 16h1M23 16h1M7 17h1M23 17h1M7 18h1M23 18h1M23 19h1M8 20h1M8 21h1M22 22h1M10 24h4M20 24h1M16 25h4" />
+<path stroke="#effbf7" d="M15 6h1M14 7h2M17 12h1M12 14h1M12 15h1" />
+<path stroke="#9cd8da" d="M16 6h1M16 7h1" />
+<path stroke="#def7f7" d="M17 6h1M17 7h1M12 11h2M20 12h2M21 13h1M8 16h1M22 16h1M8 17h1M22 17h1M22 18h1M22 19h1M9 20h1M21 20h1M9 21h1M21 21h1" />
+<path stroke="#212429" d="M18 6h2" />
+<path stroke="#cef7f7" d="M18 7h1" />
+<path stroke="#94b0b2" d="M19 7h1" />
+<path stroke="#f7ffff" d="M14 8h1" />
+<path stroke="#bdc1ac" d="M15 8h1" />
+<path stroke="#defbf7" d="M16 8h2" />
+<path stroke="#96b0af" d="M18 8h1" />
+<path stroke="#d6f7f7" d="M19 8h1M18 9h1" />
+<path stroke="#4a4508" d="M14 9h1" />
+<path stroke="#83835a" d="M15 9h1" />
+<path stroke="#a7d6d3" d="M16 9h1" />
+<path stroke="#70b2af" d="M17 9h1" />
+<path stroke="#182421" d="M19 9h1" />
+<path stroke="#292c29" d="M14 10h1" />
+<path stroke="#75a6a7" d="M15 10h1M15 11h1" />
+<path stroke="#d2df8b" d="M16 10h1" />
+<path stroke="#ffdf39" d="M17 10h1" />
+<path stroke="#86804f" d="M18 10h1" />
+<path stroke="#524100" d="M19 10h1" />
+<path stroke="#9ce3e7" d="M14 11h1" />
+<path stroke="#a5dfde" d="M16 11h2" />
+<path stroke="#efffef" d="M18 11h2" />
+<path stroke="#422410" d="M10 12h1" />
+<path stroke="#eff7ef" d="M11 12h1M10 13h1" />
+<path stroke="#d6fbff" d="M12 12h1M13 13h1" />
+<path stroke="#cdd6c8" d="M13 12h1" />
+<path stroke="#73aead" d="M14 12h1M14 13h1" />
+<path stroke="#cb8d55" d="M15 12h1M15 13h1" />
+<path stroke="#c88c57" d="M16 12h1M16 13h2" />
+<path stroke="#cb8d57" d="M18 12h1M19 13h1M19 16h3M19 17h3M10 20h1M18 20h2M10 21h1M18 21h2" />
+<path stroke="#e7f7f7" d="M19 12h1M18 13h1" />
+<path stroke="#effbff" d="M9 13h1" />
+<path stroke="#988d7f" d="M11 13h1" />
+<path stroke="#bd8e5a" d="M12 13h1" />
+<path stroke="#d8a373" d="M20 13h1" />
+<path stroke="#4a2810" d="M8 14h1M8 19h1" />
+<path stroke="#ceebde" d="M9 14h1M8 15h1M8 18h1M9 19h1" />
+<path stroke="#ce8e52" d="M10 14h1M17 14h1M10 19h1M16 24h2" />
+<path stroke="#e6ba94" d="M11 14h1M10 15h1" />
+<path stroke="#f9e5d6" d="M13 14h1M13 15h1" />
+<path stroke="#f7e5d3" d="M14 14h2M14 15h2M10 16h8M10 17h8M12 18h6M12 19h6M12 20h6M12 21h6" />
+<path stroke="#e2ba94" d="M16 14h1M10 18h1" />
+<path stroke="#d6925a" d="M18 14h1" />
+<path stroke="#f7fbf7" d="M19 14h1M19 15h1" />
+<path stroke="#ce8a52" d="M20 14h1M20 15h1" />
+<path stroke="#def3ef" d="M21 14h1" />
+<path stroke="#a1b7b7" d="M22 14h1" />
+<path stroke="#292829" d="M23 14h1M23 15h1" />
+<path stroke="#8c8977" d="M9 15h1M9 18h1" />
+<path stroke="#ffe7d6" d="M11 15h1" />
+<path stroke="#f7e7d6" d="M16 15h2M18 16h1M18 17h1M11 18h1M11 19h1M11 20h1M11 21h1M14 22h4M15 23h2" />
+<path stroke="#e1b58e" d="M18 15h1" />
+<path stroke="#d3ad86" d="M21 15h1" />
+<path stroke="#deffff" d="M22 15h1M21 22h1" />
+<path stroke="#c88d57" d="M9 16h1M9 17h1M20 20h1M20 21h1" />
+<path stroke="#e7ba94" d="M18 18h1" />
+<path stroke="#ca8b56" d="M19 18h1M18 19h2" />
+<path stroke="#c98b56" d="M20 18h2M20 19h1" />
+<path stroke="#d6a273" d="M21 19h1" />
+<path stroke="#afb7b7" d="M22 20h1M9 22h1" />
+<path stroke="#212829" d="M23 20h1M22 21h1M8 22h1M9 23h1" />
+<path stroke="#ce8e56" d="M10 22h1M10 23h2" />
+<path stroke="#efcbad" d="M11 22h1" />
+<path stroke="#f7e3d6" d="M12 22h2" />
+<path stroke="#c88c54" d="M18 22h2M18 23h1" />
+<path stroke="#9fbbba" d="M20 22h1M20 23h1" />
+<path stroke="#c68a52" d="M12 23h1" />
+<path stroke="#d6a77e" d="M13 23h1" />
+<path stroke="#d6a373" d="M14 23h1" />
+<path stroke="#e9bd94" d="M17 23h1" />
+<path stroke="#9cdbde" d="M19 23h1M18 24h2" />
+<path stroke="#213431" d="M21 23h1" />
+<path stroke="#312418" d="M14 24h1M15 25h1" />
+<path stroke="#98917f" d="M15 24h1" />
+</svg>

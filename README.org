@@ -1,0 +1,4 @@
+Converted from [[https://github.com/PokeAPI/sprites][sprites]] by [[https://github.com/PokeAPI][PokeAPI]]
+and [[https://github.com/msikma/pokesprite][pokesprite]] by [[https://github.com/msikma][msikma]],
+using the [[https://codepen.io/shshaw/pen/XbxvNj][Pixels to SVG]] tool by [[https://codepen.io/shshaw][Shaw on CodePen]];
+in case ~Pixels to SVG~ ever goes down, [[https://codepen.io/shadowrylander/pen/mdqBpRz][here's my fork]].
